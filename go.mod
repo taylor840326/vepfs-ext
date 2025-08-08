@@ -1,4 +1,4 @@
-module vepfs-dir-stats
+module vepfs-ext
 
 go 1.24.3
 
