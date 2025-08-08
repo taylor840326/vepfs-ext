@@ -1,4 +1,4 @@
-module vepfs-ext
+module github.com/taylor840326/vepfs-ext
 
 go 1.24.3
 
