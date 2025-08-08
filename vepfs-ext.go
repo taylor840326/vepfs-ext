@@ -125,7 +125,7 @@ func (e *VEPFSExt) CreateLensTask(input *CreateLensTaskRequest) (*CreateLensTask
 
 func (e *VEPFSExt) CreateLensTaskInner(input *CreateLensTaskRequest) (req *request.Request, output *CreateLensTaskResponse) {
 	op := &request.Operation{
-		Name:       "CreateLensTask",
+		Name:       "CreateLensTasks",
 		HTTPMethod: "POST",
 		HTTPPath:   "/",
 	}
